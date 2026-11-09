@@ -45,7 +45,7 @@
     "promise-nodeify": ">= 0.1"
   },
   "devDependencies": {
-    "@types/node": "22.13.4",
+    "@types/node": "26.6.6",
     "chai": "^2.3.0",
     "mocha": "^2.2.5",
     "nock": "^13.2.9",
